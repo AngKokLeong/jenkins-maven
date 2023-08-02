@@ -20,7 +20,7 @@
     <!-- jacoco properties -->
     <jacoco.groupId>org.jacoco</jacoco.groupId>
     <jacoco.artifactId>jacoco-maven-plugin</jacoco.artifactId>
-    <jacoco.version>0.8.7</jacoco.version>
+    <jacoco.version>0.8.8</jacoco.version>
 
     <!-- SonarQube properties -->
     <sonar.java.coveragePlugin>jacoco</sonar.java.coveragePlugin>
